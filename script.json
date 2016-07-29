@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Lena, a Product Manager in tech world.\nWant to know more about Lena? %[Professional Experience](https://www.linkedin.com/in/lenayingli) %[Portfolio](https://www.lenayingli.com/portfolio.html) %[Product Insights](http://www.lenayingli.com/product-insights.html) %[](http://www.lenayingli.com/product-insights.html)",
+    "BOT": "Hi there!\nI’m the personal bot of Lena, a Product Manager in tech world.\nWant to know more about Lena? %[Professional Experience](https://www.linkedin.com/in/lenayingli) %[Portfolio](https://www.lenayingli.com/portfolio.html) %[Product Insights](http://www.lenayingli.com/product-insights.html) %[Blogs](https://medium.com/@lenayingli) %[Photography Work](https://500px.com/lenayingli)",
     "HELLO": "Hey, I'm so glad you set HelloKepler up! Do you want to tell Lena that you're talking to her bot? %[Tell her](postback:lenayingli@gmail.com)",
     "TELL HER": "Let's email Lena so she knows you're setting a bot up. Here's an email that's ready to go: %[Email Lena](lenayingli@gmail.com)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
