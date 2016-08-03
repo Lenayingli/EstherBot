@@ -1,7 +1,7 @@
 {
 
     "HELLO": "Hey, I'm so glad you set HelloKepler up! Do you want to know more about Lena? \nIf so, you can type my name KeplerBot to get it started",
-    "KEPLERBOT": "Hi there!\nI’m the personal bot of Lena, a Product Manager in tech world.\nWant to know more about Lena? %[Professional Experience](https://www.linkedin.com/in/lenayingli) %[Personal Website](https://www.lenayingli.com) %[Blogs](https://medium.com/@lenayingli)",
+    "KEPLERBOT": "Hi there!\nI’m the personal bot of Lena, a Product Manager in tech world.\nWant to know more about Lena? %[Professional Experience](https://www.linkedin.com/in/lenayingli) %[Personal Website](http://www.lenayingli.com/about.html) %[Blogs](https://medium.com/@lenayingli)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, HelloKepler is back."
 }
