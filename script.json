@@ -1,6 +1,7 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Lena, a Product Manager in tech world.\nWant to know more about Lena? %[Professional Experience](https://www.linkedin.com/in/lenayingli) %[Personal Website](https://www.lenayingli.com) %[Blogs](https://medium.com/@lenayingli)",
-    "HELLO": "Hey, I'm so glad you set HelloKepler up! Do you want to know more about Lena? %[Know more about Lena](postback:Bot)",
+
+    "HELLO": "Hey, I'm so glad you set HelloKepler up! Do you want to know more about Lena? \nIf so, you can type my name KeplerBot to get it started",
+    "KeplerBOT": "Hi there!\nI’m the personal bot of Lena, a Product Manager in tech world.\nWant to know more about Lena? %[Professional Experience](https://www.linkedin.com/in/lenayingli) %[Personal Website](https://www.lenayingli.com) %[Blogs](https://medium.com/@lenayingli)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, HelloKepler is back."
 }
